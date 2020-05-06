@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc-hibernate-xmlconfig:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc-hibernate-xmlconfig</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc-hibernate-xmlconfig-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springmvc-hibernate-xmlconfig:war exploded" />
+    </root>
+  </artifact>
+</component>

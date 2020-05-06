@@ -1,0 +1,4 @@
+net\javaguides\springmvc\helloworld\config\SpringMvcDispatcherServletInitializer.class
+net\javaguides\springmvc\helloworld\controller\HelloWorldController.class
+net\javaguides\springmvc\helloworld\config\AppConfig.class
+net\javaguides\springmvc\helloworld\model\HelloWorld.class
